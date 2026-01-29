@@ -1,16 +1,19 @@
-# Bug Bounty & Penetration Testing Writeups
+# Web Security & Bug Bounty Writeups
 
-This repository contains my hands-on practice and learning journey in Web Application Security.
+This repository documents my hands-on practice in web application security.
+It includes vulnerability analysis, exploitation steps, and mitigation notes based on realistic lab environments.
 
-## Focus Areas
+The focus of this work is on understanding how modern web applications fail at authorization, input handling, and session management, and how these issues can be identified during manual testing.
+
+## Areas of Focus
 - Insecure Direct Object Reference (IDOR)
-- Broken Access Control (BAC)
+- Broken Access Control
 - Cross-Site Scripting (XSS)
-- Authentication & Authorization issues
+- Authentication & Authorization flaws
 
-## Labs & Platforms
-- OWASP crAPI
+## Practice Platforms
 - PortSwigger Web Security Academy
+- PentesterLab
 
-## Disclaimer
-All content is for educational purposes only. No private program data is disclosed.
+## Notes
+All writeups are based on intentionally vulnerable labs and created for learning and skill development purposes only.
